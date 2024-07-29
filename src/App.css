@@ -1,0 +1,18 @@
+.task-input{
+  width: 15rem;
+  height: 3rem;
+  box-shadow: 5px 6px 5px blueviolet;
+}
+.box{
+  margin-left: 40rem;
+}
+.add-button{
+  margin: 2rem;
+}
+
+.remove-button{
+  margin: .5rem;
+}
+h1{
+  margin-left: 40rem;
+}
